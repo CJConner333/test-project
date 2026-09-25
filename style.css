@@ -311,6 +311,7 @@ footer {
     a {
       font-size: 16px;
     }
+}
 
   .course {
       gap: 4px;
@@ -348,7 +349,6 @@ footer {
     input, textarea {
       width: 400px;
     }
-  }
 
 
 
